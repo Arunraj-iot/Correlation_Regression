@@ -1,8 +1,8 @@
 # Correlation and regression for data analysis
 ```
-Developed by : Surendhar A
-Register No : 212222110049
-Date :
+Developed by : Arunraj R
+Register No : 212224110006
+Date : 10.5.25
 ```
 # Aim : 
 
